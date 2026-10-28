@@ -1,0 +1,10 @@
+id: AM110Q126294LK1
+category: displays
+size: "1.1"
+panel: amoled
+resolution: 126x294
+interface: [spi]
+driver: ICNA3306
+touch: CHSC6417
+outline: 15.40 x 38.97 mm
+active_area: 10.96 x 25.58 mm
